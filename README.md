@@ -10,4 +10,5 @@ Note:
 - https://www.newworld.co.nz/shop/specials
 - New World has 20 pages of specials (if view = 50 per page)
 - Order displayed on site can vary
+- As a result of ^, there may be other items on sale that don't get scraped.
 - There's a 3 second delay between each request (page) to prevent site overload
